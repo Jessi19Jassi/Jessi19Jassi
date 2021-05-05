@@ -1,6 +1,6 @@
 
 ## ***My name is Jessica and I'am student of Laboratoria as Front-End Developer and Computer Enginner***
-![](<iframe src="https://giphy.com/embed/i4MAH84pqe2m2aVojc" width="150" frameBorder="0" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/i4MAH84pqe2m2aVojc">via GIPHY</a></p>)
+![]<img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="150" height="150" />
 
 
 - I love tech 
