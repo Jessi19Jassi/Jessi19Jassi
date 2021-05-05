@@ -1,7 +1,7 @@
 # Hi there 👋
-## My name is Jessica an I'am student of Laboratoria as Front-End Developer and Computer Enginner.
-## I love the tech world
-## I'm looking to change the world 
+My name is Jessica and I'am student of Laboratoria as Front-End Developer and Computer Enginner.
+I love the tech world
+I'm looking to change the world 
 
 
 
