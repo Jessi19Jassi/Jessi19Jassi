@@ -1,5 +1,6 @@
 <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="150" height="150" />
-## ***My name is Jessica and I'am student of Laboratoria as Front-End Developer and Computer Enginner***
+
+***My name is Jessica and I'am student of Laboratoria as Front-End Developer and Computer Enginner***
 
 - I love tech 
 - I'm looking to change the world 
