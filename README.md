@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋
+## My name is Jessica an I'am student of Laboratoria as Front-End Developer and Computer Enginner.
+## I love the tech world
+## I'm looking to change the world 
+
+
 
 <!--
 **Jessi19Jassi/Jessi19Jassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
