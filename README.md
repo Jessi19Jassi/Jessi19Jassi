@@ -7,7 +7,7 @@
 - 👀 Buscando cambiar el mundo
 - Seguir aprendiendo
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Jessi Jassi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ____
 Lenguajes y herramientas
 
