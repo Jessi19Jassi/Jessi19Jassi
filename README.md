@@ -11,6 +11,6 @@
 ____
 🔥 ***Lenguajes y herramientas*** 🛠️
 
-   <img src="https://i.pinimg.com/564x/68/d9/1a/68d91a4a0c40857674fbd3a22b9f0b03.jpg" width="70" height="45" /> <img src="https://cdn.dribbble.com/users/783/screenshots/104300/shot_1295820312.gif" width="60" height="45" />
+   <img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="70" height="45" /> <img src="https://cdn.dribbble.com/users/783/screenshots/104300/shot_1295820312.gif" width="60" height="45" />
 
 
