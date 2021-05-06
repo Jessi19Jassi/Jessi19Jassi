@@ -5,11 +5,13 @@
 
 - ⚡ Amante de la tecnología
 - 👀 Buscando cambiar el mundo
-- Seguir aprendiendo
+- 🙌 Seguir aprendiendo
 
 ![Jessi Jassi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jessi19Jassi&show_icons=true&theme=radical)
 ____
-Lenguajes y herramientas
+🔥 Lenguajes y herramientas 🛠️
+<img src="https://i.pinimg.com/564x/f9/7d/35/f97d35b8c6c61d0a99d048bc892c3fee.jpg" width="60" height="40" />
+
 
 
 
