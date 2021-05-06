@@ -7,10 +7,10 @@
 - 👀 Buscando cambiar el mundo
 - 🙌 Seguir aprendiendo
 
-![Jessi Jassi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jessi19Jassi&show_icons=true&theme=radical)
 ____
 🔥 ***Lenguajes y herramientas*** 🛠️
 
    <img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="70" height="45" /> <img src="https://cdn.dribbble.com/users/783/screenshots/104300/shot_1295820312.gif" width="60" height="45" /> <img src="https://cdn.dribbble.com/users/9780/screenshots/1035237/css3.gif" width="70" height="45" />
 
-
+____
+![Jessi Jassi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jessi19Jassi&show_icons=true&theme=radical)
