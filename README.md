@@ -11,6 +11,7 @@
 ____
 🔥 ***Lenguajes y herramientas*** 🛠️
 
-   <img src="https://buffalo.kidsoutandabout.com/sites/default/files/html_css_javascript.jpeg" width="80" height="45" />
+   <img src="https://i.pinimg.com/564x/68/d9/1a/68d91a4a0c40857674fbd3a22b9f0b03.jpg" width="70" height="45" />
+   <img src="https://mpng.subpng.com/20180330/owe/kisspng-html-logo-world-wide-web-consortium-coding-5abed048b59401.6404065315224546007438.jpg" width="60" height="75" />
 
 
