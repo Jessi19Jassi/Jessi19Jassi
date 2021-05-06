@@ -6,6 +6,8 @@
 
 - I love tech 
 - I'm looking to change the world 
+
+![](https://pin.it/6guvQxm)
 ____
 Lenguajes y herramientas
 
