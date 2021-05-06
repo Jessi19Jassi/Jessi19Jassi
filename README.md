@@ -3,7 +3,7 @@
 
 <img src="https://image.freepik.com/free-vector/young-woman-working-laptop-illustration_39663-268.jpg" width="250" height="250" />
 
-- Amante de la tecnología
+- ⚡ Amante de la tecnología
 - 👀 Buscando cambiar el mundo
 - Seguir aprendiendo
 
