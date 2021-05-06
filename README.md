@@ -7,7 +7,7 @@
 - I love tech 
 - I'm looking to change the world 
 
-<img src="https://www.freepik.com/premium-vector/young-woman-working-laptop-illustration_4098277.htm" width="150" height="150" />
+<img src="https://image.freepik.com/free-vector/young-woman-working-laptop-illustration_39663-268.jpg" width="150" height="150" />
 
 ____
 Lenguajes y herramientas
