@@ -9,7 +9,7 @@
 
 ![Jessi Jassi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jessi19Jassi&show_icons=true&theme=radical)
 ____
-🔥 ##**Lenguajes y herramientas** 🛠️
+🔥 ## **Lenguajes y herramientas** 🛠️
 
    <img src="https://i.pinimg.com/564x/68/d9/1a/68d91a4a0c40857674fbd3a22b9f0b03.jpg" width="" height="45" />
 
