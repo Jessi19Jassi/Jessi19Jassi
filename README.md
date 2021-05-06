@@ -1,5 +1,5 @@
 # Hi there!✨
-## Mi nombre es Jessi y soy una apasionada por la tecnología
+***Mi nombre es Jessi y soy una apasionada por la tecnología***
 
 <img src="https://image.freepik.com/free-vector/young-woman-working-laptop-illustration_39663-268.jpg" width="250" height="250" />
 
