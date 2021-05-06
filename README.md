@@ -1,9 +1,13 @@
-# Hi there!✨
-***Mi nombre es Jessi y soy una apasionada por la tecnología***
+# ¡Hola!, mi nombre es Jessi✨
+
 
 <img src="https://image.freepik.com/free-vector/young-woman-working-laptop-illustration_39663-268.jpg" width="250" height="250" />
 
+- Amante de la tecnología
+- 👀 Buscando cambiar el mundo
+- Seguir aprendiendo
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ____
 Lenguajes y herramientas
 
