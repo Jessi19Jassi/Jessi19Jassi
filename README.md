@@ -2,11 +2,11 @@
 
 
 <img src="https://image.freepik.com/free-vector/young-woman-working-laptop-illustration_39663-268.jpg" align='rigth' width="250" height="250" />
-<div align='left'
+<div align='left'>
 - ⚡ Amante de la tecnología
 - 👀 Buscando cambiar el mundo
 - 🙌 Seguir aprendiendo
-/>
+</div>
 ____
 🔥 ***Lenguajes y herramientas*** 🛠️
 
